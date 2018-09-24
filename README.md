@@ -1,1 +1,2 @@
 # facebook-extra
+In many applications, developers can not get all necessary data because Facebook restricts its api by using `permissions` system, no permission means no data. Instead of dealing with their own bussiness, developers wastes time to figures out how to maintain a stable api to get missing data from facebook. Therefore, our project are going to take care facebook for you even you dont have `permission`. The ideal is to use your account to view/edit every thing you are granted access.
